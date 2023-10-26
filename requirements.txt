@@ -12,3 +12,4 @@ chromadb
 tabulate
 ctransformers
 ipywidgets
+notebook
