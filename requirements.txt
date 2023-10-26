@@ -1,0 +1,14 @@
+chromadb==0.3.21
+emoji==2.2.0
+langchain
+pandas==2.0.1
+pydantic==1.10.7
+python_pptx==0.6.21
+regex==2023.3.23
+streamlit==1.22.0
+openai
+tiktoken
+chromadb
+tabulate
+ctransformers
+ipywidgets
